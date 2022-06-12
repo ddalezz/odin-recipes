@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    font-size: 46px;
+    background-color: aliceblue;
+}
+
+li {
+    font-weight: 700;
+}

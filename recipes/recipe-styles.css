@@ -1,0 +1,24 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+h1 {
+    background-color: lightblue;
+    text-align: center;
+}
+
+
+img {
+    max-width: 50%;
+    max-height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.credit {
+    font-size: 12px;
+}
